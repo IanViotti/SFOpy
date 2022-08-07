@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="SFOpy",
-    version="0.1.0",
+    version="0.1.2",
     author="Ian Viotti",
     description="Creates Sunflower Optimization algorithm",
     packages=setuptools.find_packages(), 
