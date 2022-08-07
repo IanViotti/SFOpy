@@ -1,1 +1,1 @@
-from .sfo_single import sum_ab
+from .sfo_single import SingleSFO
