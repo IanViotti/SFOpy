@@ -1,6 +1,6 @@
 # SFOpy
 
-SFOpy is a research toolkit that implements Sunflower Optimization (SFO) algorithm in Python.
+SFOpy is a research toolkit that implements Sunflower Optimization (SFO) algorithm in Python. The goal with this project is to implement this algorithm in a way that it's extensive while being extensible. 
 
 - **Open-Source**: MIT License
 - **Python version**: 3.6 and above.
